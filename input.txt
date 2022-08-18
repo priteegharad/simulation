@@ -1,0 +1,25 @@
+5
+4
+300
+10
+1
+0.75
+.3
+0.05
+8
+100
+50
+4
+100
+1
+
+10
+10
+20
+30
+40
+50
+1. Timeout of Request ,Think Time of User, Number of Request ,Number of Users ,DBMS Service Distribution Mean Time, WEB Service Distribution Mean Time ,Round Robin Time Quantum,
+            Interarrival Distribution Mean Time, Number of WebCore,Web Queue Size ,Web Probabilty(P) ,Number of DBMS Core, DBMS Queue Size , Probabiltity Distribution type
+2. Number of Run
+3. Seed for Run
