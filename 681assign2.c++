@@ -5,7 +5,7 @@
 #include<bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 
-#include "/home/vishal/CLionProjects/untitled/CSES/boost_1_78_0/boost/math/distributions/pareto.hpp"
+#include "/home/CLionProjects/untitled/CSES/boost_1_78_0/boost/math/distributions/pareto.hpp"
 
 using namespace __gnu_pbds;
 using namespace std;
